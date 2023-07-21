@@ -1,1 +1,4 @@
 cookiecutter
+mkdocs
+mkdocs-cinder
+pytest
